@@ -1,0 +1,32 @@
+_repo: A-New-Genus-of-Pennsylvanian-Fish--Crossopterygii-Coelacanthiformes--from-Kansas_33560
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Echols, Joan
+    gutenberg_agent_id: '36473'
+    url: http://www.gutenberg.org/2009/agents/36473
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild
+- Animal
+gutenberg_issued: '2010-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33560'
+  lccn: '64063310'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Coelacanthiformes'
+- !lcsh 'Synaptotylus newelli'
+- !lcsh 'Fishes, Fossil'
+- !lcc 'QE'
+title: A New Genus of Pennsylvanian Fish (Crossopterygii, Coelacanthiformes) from
+  Kansas
+url: http://www.gutenberg.org/ebooks/33560
